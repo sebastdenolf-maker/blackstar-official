@@ -1,2 +1,2 @@
-# blackstar-official
-BLACKSTAR official artist website — music, shows and newsletter
+# BLACKSTAR
+Official artist website. GitHub Pages serves main/root.

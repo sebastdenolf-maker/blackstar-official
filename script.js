@@ -1,0 +1,1 @@
+const toast=document.querySelector('.toast');let timer;document.querySelectorAll('[data-platform]').forEach(button=>button.addEventListener('click',()=>{toast.textContent=button.dataset.platform+' — official link coming soon.';toast.classList.add('visible');clearTimeout(timer);timer=setTimeout(()=>toast.classList.remove('visible'),3500);}));
